@@ -21,6 +21,8 @@ router.post("/notes", (req, res) => {
         fs.writeFile("./db/db.json", JSON.stringify(notes), (err) => {
         if (err) return res.JSON({ err: "trouble adding notes" });
         res.json({ msg: "Notes added" })
+
+        res.json(req.body)
         });
     });
 })
