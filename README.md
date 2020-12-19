@@ -1,37 +1,39 @@
 
-  # Note Taker
+# Note Taker
 
-  ## Description
-    For this application, the User will be able to input information and save text whenever they are done.
+## Description
+  For this application, the User will be able to input information and save text whenever they are done.
 
-  ## Time of Contents
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [License](#license)
-    - [Contribution](#contribution)
-    - [Tests](#tests)
-    - [Questions](#questions)
-  
-  ## Installation:
-    To create this application, you would have to run npm install which will provide you a npm dependencies such as node_modules & package.json. However, if users only need to install package.json they can run npm init -y on the command-line. 
+## Time of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contribution](#contribution)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
-    - express: web application framework based on Node.js that provides a ton of features for web and mobile apps
+## Installation:
+  To create this application, you would have to run npm install which will provide you a npm dependencies such as node_modules & package.json. However, if users only need to install package.json they can run npm init -y on the command-line. 
 
-  ## Usage:
-    Steps to create this note taker application. 
-    - Click `Get Started`, 
-    - Input Title and insert text, 
-    - Hit save icon when completed.
+  - express: web application framework based on Node.js that provides a ton of features for web and mobile apps
 
-  ## License
-     MIT License
+## Usage:
+  Steps to create this note taker application. 
+  - Click `Get Started`, 
+  - Input Title and insert text, 
+  - Hit save icon when completed.
 
-  ## Contribution
-    Victor Tran & Geoffrey Jiang
+## License
+    MIT License
 
-  ## Tests
-    TBD, Testing soon
+## Contribution
+  Victor Tran & Geoffrey Jiang
 
-  ## Questions?
-    email: victortran415@gmail.com
-    gitHub: Victortran415
+## Tests
+  TBD, Testing soon
+
+## Questions?
+  - email: victortran415@gmail.com
+  - gitHub: Victortran415
+
+
