@@ -1,4 +1,3 @@
-
 # Note Taker
 
 ## Description
@@ -24,7 +23,7 @@
   - Hit save icon when completed.
 
 ## License
-    MIT License
+  MIT License
 
 ## Contribution
   Victor Tran & Geoffrey Jiang
@@ -33,7 +32,7 @@
   TBD, Testing soon
 
 ## Questions?
-  - email: victortran415@gmail.com
-  - gitHub: Victortran415
+  - Email: victortran415@gmail.com
+  - GitHub: Victortran415
 
 
