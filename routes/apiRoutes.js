@@ -1,14 +1,12 @@
 const router = require("express").Router();
 const fs = require("fs");
-const notesDB = require("../db/db.json")
-
 
 router.get("/notes", (req, res) => {
     fs.readFile("db/db.json", "utf8", (err, data) => {
         if (err) throw err;
         res.json(JSON.parse(data));
     });
-})
+});
 
 router.post("/notes", (req, res) => {
     console.log(req.body)
@@ -26,10 +24,7 @@ router.post("/notes", (req, res) => {
             res.json ({msg: "Added Successfully"})
         });
     });
-})
-
-
-
+});
 
 
 module.exports = router
