@@ -29,7 +29,7 @@
   Victor Tran & Geoffrey Jiang
 
 ## Tests
-  TBD, Testing soon
+  <img src= "assets/gif/notetaker.gif" style="width: 600px">
 
 ## Questions?
   - Email: victortran415@gmail.com
@@ -37,6 +37,6 @@
 
 ## Deployment:
 - GitHub repo: https://victortran415.github.io/Note_Taker/
-- Heroku: 
+- Heroku: https://the-notetaker-app.herokuapp.com/
 
 
